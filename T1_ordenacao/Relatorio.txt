@@ -1,0 +1,74 @@
+Atividade Pratica I - 2020.1
+Universidade Federal do Maranhao - UFMA
+Departamento de Informatica - DEINF
+Estrutura de Dados II - EDII
+Discente: Maria Jucimara Pereira Ferreira
+
+
+Processador: Intel(R) Core(TM i5-8265U CPU @1,60GHz
+1,80 GHz
+
+
+                DESEMPENHO DOS ALGORITMOS DE ORDENACAO
+
+Obs 1: O tempo calculado só leva em consideração a ordenacão dos vertices
+Obs 2: As Comparacoes e Modificacoes apresentadas tem como base a pasta teste_vertices
+
+
+----------------------------------------------------------------------------
+7 vertice       |  Comparacoes |  Modificacoes  |      Tempo
+----------------------------------------------------------------------------
+Quick           |    9         |    3           |  0,000 ms
+Merge           |    32        |    81          |  0,000 ms
+Insert          |    15        |    5           |  0,000 ms
+Shell           |    12        |    2           |  0,000 ms
+Heap            |    17        |    17          |  0,000 ms
+QuickInsertP    |    15        |    5           |  0,001 ms
+QuickInsertF    |    15        |    5           |  0,002 ms 
+
+----------------------------------------------------------------------------
+100 vertice     |  Comparacoes |  Modificacoes  |      Tempo
+----------------------------------------------------------------------------
+Quick           |    165       |    130         |  0,001 ms
+Merge           |    950       |    3028        |  0,001 ms
+Insert          |    2434      |    2238        |  0,002 ms
+Shell           |    538       |    6           |  0,001 ms
+Heap            |    1032      |    590         |  0,001 ms
+QuickInsertP    |    3266      |    2654        |  0,004 ms
+QuickInertF     |    456       |    268         |  0,002 ms 
+
+
+----------------------------------------------------------------------------
+1000 vertice    |  Comparacoes |  Modificacoes  |      Tempo
+----------------------------------------------------------------------------
+Quick           |    1627      |    1928        |   0,002 ms
+Merge           |    12960     |    43615       |   0,008 ms
+Insert          |    250830    |    248834      |   0,024 ms
+Shell           |    10437     |    9           |   0,008 ms
+Heap            |    19374     |    9468        |   0,005 ms
+QuickInsertP    |    617094    |    604146      |   0,027 ms
+QuickInsertF    |    6351      |    4438        |   0,006 ms 
+
+----------------------------------------------------------------------------
+10000 vertice   |  Comparacoes |  Modificacoes  |      Tempo 
+----------------------------------------------------------------------------
+Quick           |    17723     |    19728       |  0,032 ms
+Merge           |    163614    |    569779      |  0,092 ms
+Insert          |    24328266  |    2430826     |  0,159 ms
+Shell           |    146943    |    13          |  0,012 ms
+Heap            |    274475    |    127376      |  0,016 ms
+QuickInsertP    |    51556642  |    51350829    |  0,172 ms
+QuickInsertF    |    85195     |    70915       |  0,016 ms
+
+
+----------------------------------------------------------------------------
+100000 vertice  |  Comparacoes |  Modificacoes  |      Tempo
+----------------------------------------------------------------------------
+Quick           |    177905    |    160223      |  1,904 ms
+
+Merge           |   1968926    |    7046459     |  5,079 ms
+Insert          |  -1958818649 |   -159018647   |  33,601 ms
+Shell           |   992124     |    16          |  0,123 ms
+Heap            |   3324928    |    1524503     |  0,108
+QuickInsertP    |  -1190363324 |   -1192456648  |  14,692 ms
+QuickInsertF    |   953245     |    1130150     |  0,174 ms
