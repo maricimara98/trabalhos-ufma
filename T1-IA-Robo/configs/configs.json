@@ -1,0 +1,36 @@
+{   
+    "SIZE"  : 22,
+    "size_x": 22,
+    "size_y": 22,
+    
+    "incinerador_x": 1,
+    "incinerador_y": 20,
+
+    "recicladora_y": 20,
+    "recicladora_x": 20,
+
+    
+    "lixo_x_x": 1,
+    "lixo_x_y": 12,
+    
+    "lixo_quantidade": 40,
+    
+    "lixo_y_y": 12,
+    "lixo_y_x": 20,
+    
+    "robo_1_x": 1,
+    "robo_1_y": 1,
+    
+    "robo_2_x": 20,
+    "robo_2_y": 1,
+
+    "ESQUERDA": 4,
+    "DIREITA": 6,
+    "EMCIMA": 8,
+    "EMBAIXO": 2,
+
+    "LIMPO": " "
+
+
+
+} 
