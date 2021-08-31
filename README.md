@@ -20,3 +20,5 @@
   
 - Engenharia da Informação
   - [T2-EI-SRI](https://github.com/maricimara98/trabalhos-ufma/tree/main/T2-EI-SRI)
+
+https://img.shields.io/github/languages/count/maricimara98/trabalhos-ufma?style=social
