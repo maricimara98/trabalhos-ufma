@@ -1,4 +1,4 @@
-# Trabalhos-UFMA
+# Trabalhos-UFMA ![Languages](https://img.shields.io/github/languages/count/maricimara98/trabalhos-ufma?style=social)
 
 - Estrutura de Dados I
   - [Cofo](https://github.com/maricimara98/trabalhos-ufma/tree/main/cofo)
@@ -9,14 +9,14 @@
   - [T2-Pesquisa](https://github.com/maricimara98/trabalhos-ufma/tree/main/T2_pesquisa)
 
 - Compiladores
-  - [T3-TinyTM] (https://github.com/maricimara98/trabalhos-ufma/tree/main/compilador-Tiny-e-TM)
+  - [T3-TinyTM](https://github.com/maricimara98/trabalhos-ufma/tree/main/compilador-Tiny-e-TM)
 
 - Inteligência Artificial
-  - [T1-IA-Robo] (https://github.com/maricimara98/trabalhos-ufma/tree/main/T1-IA-Robo)
-  - [T2-IA-AG] (https://github.com/maricimara98/trabalhos-ufma/tree/main/T2-IA-AG)
+  - [T1-IA-Robo](https://github.com/maricimara98/trabalhos-ufma/tree/main/T1-IA-Robo)
+  - [T2-IA-AG](https://github.com/maricimara98/trabalhos-ufma/tree/main/T2-IA-AG)
   
 - Banco de Dados I
-  - [T3-BD1] (https://github.com/maricimara98/trabalhos-ufma/tree/main/banco-de-dados-I)
+  - [T3-BD1](https://github.com/maricimara98/trabalhos-ufma/tree/main/banco-de-dados-I)
   
 - Engenharia da Informação
-  - [T2-EI-SRI] (https://github.com/maricimara98/trabalhos-ufma/tree/main/T2-EI-SRI)
+  - [T2-EI-SRI](https://github.com/maricimara98/trabalhos-ufma/tree/main/T2-EI-SRI)
