@@ -8,9 +8,6 @@
   - [T1-Ordenação](https://github.com/maricimara98/trabalhos-ufma/tree/main/T1_ordenacao)
   - [T2-Pesquisa](https://github.com/maricimara98/trabalhos-ufma/tree/main/T2_pesquisa)
 
-- Compiladores
-  - [T3-TinyTM](https://github.com/maricimara98/trabalhos-ufma/tree/main/compilador-Tiny-e-TM)
-
 - Inteligência Artificial
   - [T1-IA-Robo](https://github.com/maricimara98/trabalhos-ufma/tree/main/T1-IA-Robo)
   - [T2-IA-AG](https://github.com/maricimara98/trabalhos-ufma/tree/main/T2-IA-AG)
